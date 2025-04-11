@@ -1,0 +1,16 @@
+.App10-container{
+    background-color:cadetblue;
+}
+.App10-row{
+    display: flex;
+    justify-content: center;
+}
+.App10-box{
+    text-align: center;
+    background-color: white;
+    width: 500px; 
+    margin:20px;
+    padding: 20px;
+    border-radius: 20px;
+    transition:transform 1s;
+}
